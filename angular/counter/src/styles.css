@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+body
+{
+    box-sizing: border-box;
+ /* background-color:aquamarine;  */
+    background-image: url(https://i.pinimg.com/736x/c8/14/00/c814004caccbd6425f4ca68ebc938c30.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh; 
+}

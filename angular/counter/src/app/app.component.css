@@ -1,0 +1,34 @@
+h1
+{
+    text-align: center;
+    color:white;
+}
+.counter
+{
+    color: aliceblue;
+    height: 50vh;
+    width: 50vw;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/668/932/865/light-bulb-minimalism-blue-hanging-hd-wallpaper-preview.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+.count
+{
+    font-size: 48px;
+    
+}
+button
+{
+    background-color: black;
+    color: white;
+    padding: 10px; 
+    margin: 5px;
+    border-radius: 10px;
+}
+button:disabled
+{
+    background-color:blue;
+}
