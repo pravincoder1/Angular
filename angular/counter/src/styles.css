@@ -2,11 +2,13 @@
 body
 {
     box-sizing: border-box;
- /* background-color:aquamarine;  */
-    background-image: url(https://i.pinimg.com/736x/c8/14/00/c814004caccbd6425f4ca68ebc938c30.jpg);
+    /* background-color:ghostwhite; */
+    background-image: url(https://www.slideegg.com/image/catalog/700968-Math%20PPT%20Background.png);
     background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 85vh; 
 }
+
+

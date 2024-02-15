@@ -1,0 +1,38 @@
+h1
+{
+    text-align: center;
+}
+.box
+{
+    background-color:rgb(0,30,31);
+    color:olive;
+    height: 200px;
+    width: 200px;
+    box-shadow: 3px 3px 3px black;
+    padding: 20px; 
+    margin: 20px; 
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 45px;
+    margin-left: 625px;
+}
+#o,#n,#e
+{
+    border-radius: 20px;
+    height: 20px;
+}
+#btn
+{
+    background-color:grey;
+    height: 35px;
+    width: 70px;
+    color: black;
+    border-radius: 20px;
+} 
+#btn:hover
+{
+    animation-duration: 4s ;
+    transition: ease-in;
+    background-color: blue;
+}
+
